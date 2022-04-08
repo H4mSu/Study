@@ -14,8 +14,7 @@
 
 
 <P align = "center">
-    <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcibDry%2FbtqS29c9Xfw%2FwflLiKKdsMbvar8XbLSVl1%2Fimg.png" width = "200" height= "800"><br>라우터
-
+    <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcibDry%2FbtqS29c9Xfw%2FwflLiKKdsMbvar8XbLSVl1%2Fimg.png" width = "400" height= "400"><br>여러개 컴퓨터 연결
 
       네트워크를 이렇게 연결을 할수잇다. 하지만 복잡해지는것이 단점이다.
 
@@ -43,7 +42,7 @@
 <img src = "https://mdn.mozillademos.org/files/8451/internet-schema-6.png" width ="400" height="400"><br>라우터와 모뎀을 연결한 사진
 
 <P align = "center">
-    <img src = "https://media.vlpt.us/images/doomchit_3/post/63e641a9-59db-4130-9e96-d97ede4aa3b8/7.png" width = "400" height= "400"><br>여러개 컴퓨터 연결
+    <img src = "https://media.vlpt.us/images/doomchit_3/post/63e641a9-59db-4130-9e96-d97ede4aa3b8/7.png" width = "400" height= "800"><br>라우터와 isp 연결
 
 모뎀을 통해 우리의 네트워크는 전화 시설에 연결된다. 하지만, 아직까지 우리의 컴퓨터가 보낸 메시지가 도달해야 할 컴퓨터(혹은 네트워크)까지 도달하지 않은 상태다.
 이 메시지가 전달되려면 인터넷 서비스 제공 업체(ISP, Internet Service Provider) 에 연결되어야 한다.
@@ -51,3 +50,8 @@
 ISP는 모두 함께 연결되는 몇몇 특수한 라우터를 관리하고 다른 ISP의 라우터에도 액세스할 수 있는 회사이다. 우리나라에는 SK텔레콤, KT, LG유플러스 등이 있다.
 
 따라서 우리 네트워크의 메시지는 ISP 네트워크의 네트워크를 통해 대상 네트워크로 전달된다. 인터넷은 아래 그림과 같이 이러한 전체 네트워크 인프라로 구성된다.
+
+## 참고
+- https://velog.io/@doomchit_3/Internet-internet-what-how-IMBETPY
+- https://velog.io/@cks3066/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC
+- https://development-crow.tistory.com/3
