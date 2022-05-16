@@ -4,6 +4,7 @@
 ```(4.7 추가)```<Br>
 💻 [http란?](./%EC%A0%95%EB%A6%AC/http.md)```(5.5 추가)```<br>
 💻 [브라우저와 작동원리](./%EC%A0%95%EB%A6%AC/browser.md) ```(5.6 추가)```<br>
+💻 [DNS와 작동원리](./%EC%A0%95%EB%A6%AC/DNS.md) ```(5.17)추가```
 # 로드맵
 ![back_end_Roadmaps](https://blog.kakaocdn.net/dn/bq03dY/btrnCzNDlUE/EQPcSTH1TGR50KCBsnC5K1/img.png)
 
